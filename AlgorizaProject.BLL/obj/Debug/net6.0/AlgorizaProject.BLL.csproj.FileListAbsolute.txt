@@ -1,0 +1,15 @@
+D:\C# Assignment\AlgorizaProject.BLL\bin\Debug\net6.0\AlgorizaProject.BLL.deps.json
+D:\C# Assignment\AlgorizaProject.BLL\bin\Debug\net6.0\AlgorizaProject.BLL.dll
+D:\C# Assignment\AlgorizaProject.BLL\bin\Debug\net6.0\AlgorizaProject.BLL.pdb
+D:\C# Assignment\AlgorizaProject.BLL\bin\Debug\net6.0\AlgorizaProject.DAL.dll
+D:\C# Assignment\AlgorizaProject.BLL\bin\Debug\net6.0\AlgorizaProject.DAL.pdb
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.csproj.AssemblyReference.cache
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.AssemblyInfoInputs.cache
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.AssemblyInfo.cs
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.csproj.CoreCompileInputs.cache
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.csproj.CopyComplete
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.dll
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\refint\AlgorizaProject.BLL.dll
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\AlgorizaProject.BLL.pdb
+D:\C# Assignment\AlgorizaProject.BLL\obj\Debug\net6.0\ref\AlgorizaProject.BLL.dll
