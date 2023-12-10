@@ -1,0 +1,12 @@
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.csproj.AssemblyReference.cache
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.AssemblyInfoInputs.cache
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.AssemblyInfo.cs
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.csproj.CoreCompileInputs.cache
+D:\C# Assignment\AlgorizaProject.DAL\bin\Debug\net6.0\AlgorizaProject.DAL.deps.json
+D:\C# Assignment\AlgorizaProject.DAL\bin\Debug\net6.0\AlgorizaProject.DAL.dll
+D:\C# Assignment\AlgorizaProject.DAL\bin\Debug\net6.0\AlgorizaProject.DAL.pdb
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.dll
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\refint\AlgorizaProject.DAL.dll
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\AlgorizaProject.DAL.pdb
+D:\C# Assignment\AlgorizaProject.DAL\obj\Debug\net6.0\ref\AlgorizaProject.DAL.dll
